@@ -2,7 +2,6 @@
 have JUST weather for free Windows + Android  
 
 
-![ic](icon.png)  
+<img src="icon.png" alt="icon" width="70">     
 
-
-![rec](recording.gif)  
+<img src="recording.gif" alt="android" width="300">     
